@@ -15,7 +15,7 @@ lab2/
   raspisanie.html — новая страница «Расписание рейсов»
   bilety.html     — новая страница «Покупка билетов»
   menu.html       — Задание 5 (картинка-меню, карта изображений rect/circle/poly)
-  karta.html      — Задание 6 (область Кыргызстана, shape="poly", nohref)
+  karta.html      — Задание 6 (карта Кыргызстана: 7 областей, shape="poly", nohref, title)
   images/         — фотографии, фон, menu.jpg, karta.jpg
 screenshots/      — скриншоты страниц для отчёта
 ```
